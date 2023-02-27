@@ -1,0 +1,85 @@
+.frame-box {
+  margin: auto;
+}
+
+/* Header Start */
+.header-box {
+  height: 115px;
+  background-color: #FFFFFF;
+  margin: auto;
+}
+
+.google-img {
+  display: block;
+  margin: auto;
+}
+/* Header End */
+
+/* Main Start */
+.main-box {
+  margin: 0 auto;
+}
+
+.search-box {
+    width: 90%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.vertical-margin-0 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+input {
+    width: 260px;
+    height: 16px;
+    margin: 0 auto;
+    border: 1px solid #A9A9A9;
+}
+
+.turquoise-boxes {
+  width: 90%;
+  height: 80px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.special-searches-box {
+  background-color: #7EE5DA;
+  height: 78px;
+  width: 39.9%;
+  margin-top: 2px;
+  margin-left: 0;
+  float: left;
+}
+
+.about-google-box {
+  background-color: #70CCC2;
+  height: 71px;
+  width: 20%;
+  margin-top: 2px;
+  margin-left: 0.1%;
+  padding-top: 7px;
+  float: left;
+}
+
+.subscribe-box {
+  background-color: #62B3AA;
+  height: 78px;
+  width: 39.9%;
+  margin-top: 2px;
+  margin-left: 0.1%;
+  float: right;
+}
+/* Main End */
+
+/* Foater Start */
+.footer-box {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 13px;
+}
+/* Foater End */
