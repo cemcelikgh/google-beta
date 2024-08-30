@@ -1,6 +1,7 @@
-# google-beta-frontend-kodluyoruz-patika
-Patika.dev CSS Ödev 2
+# google-beta
+Patika Beginner Frontend Web Development Path Certification Task
+<br>Google Beta
 
-https://www.patika.dev https://kodluyoruz.org
+Browse: <https://cemcelikgh.github.io/google-beta/>
 
-![google-beta-frontend-kodluyoruz-patika](https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg)
+[![Google Beta Preview](./assets/google-beta-preview.jpg "Browse Google Beta")](https://cemcelikgh.github.io/google-beta/)
